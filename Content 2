@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Feelings</title>
+    <link rel="stylesheet" href="../assets/css/styles.css">
+</head>
+
+<body>
+
+<header>
+    <h1>My Blog</h1>
+    <nav>
+        <a href="../index.html">Home</a>
+        <button id="themeToggle">🌙</button>
+    </nav>
+</header>
+
+<main class="post-content">
+    <h2>Garcia's Mind</h2>
+    <p class="date">April 2026</p>
+
+    <p>Your blog content goes here. Write as much as you want.</p>
+	“Is it normal to feel somehow for talking to someone about your problems? Why do I feel a certain way when I talk to someone about feelings or when someone knows about me?”
+	These are the thoughts that crossed Garcia’s mind. Garcia’s mind tends to be filled with a lot of thoughts. She sometimes does not like being bored. To prevent being bored, she begins to think of a lot of things and asks herself questions she can’t answer or questions she does not want to ask a third party. She thinks some of these questions are questions that would make people, her loved ones, which includes her friends to know what goes on in her mind, but she doesn't want that to happen and she asks them. Everyone knows Garcia to be a very vibrant and curious person, but her curiosity drives her insane at times. Her curiosity keeps her busy and that is what she does when bored. She has no plans of putting a stop or asking someone these questions at all, but no one knows what the future holds. What if she decides to ask someone the questions in her mind, would she be comfortable doing that?
+
+
+    <h3>Subheading</h3>
+    <p>More content...</p>
+Her curiosity keeps her busy and that is what she does when bored. She has no plans of putting a stop or asking someone these questions at all, but no one knows what the future holds. What if she decides to ask someone the questions in her mind, would she be comfortable doing that?
+
+</main>
+
+<footer>
+    <p>© 2026 My Blog</p>
+</footer>
+
+<script src="../assets/js/script.js"></script>
+</body>
+</html>
