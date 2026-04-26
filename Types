@@ -1,8 +1,10 @@
 Interactiveweb.github.io/
 │
 ├── index.html
-├── about.html
-├── contact.html
+├── posts/
+│   ├── post1.html
+│   ├── post2.html
+│   └── post-template.html
 │
 ├── assets/
 │   ├── css/
@@ -10,6 +12,6 @@ Interactiveweb.github.io/
 │   ├── js/
 │   │   └── script.js
 │   └── images/
-│       
+│       └── (blog images)
 │
 └── README.md
